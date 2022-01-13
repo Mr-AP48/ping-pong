@@ -1,0 +1,33 @@
+body {
+    background-repeat: repeat;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    background-color: aquamarine;
+    color: black;
+}
+
+.bigImage {
+    width: 100%;
+}
+
+#footer {
+    width: 100%;
+    background-color: wheat;
+    margin: 0px;
+    line-height: 2;
+}
+
+#status, #playGame {
+    font-size: 22px;
+}
